@@ -1,12 +1,12 @@
 # ALGZ Arma Reforger Launcher — Official Downloads
 
-<img src="https://raw.githubusercontent.com/Redwolf29195/arma-reforger-launcher/v0.3.46/src/renderer/assets/app-icon.png" width="128" height="128" alt="LAR Launcher logo">
+<img src="https://raw.githubusercontent.com/Redwolf29195/arma-reforger-launcher/v0.3.47/src/renderer/assets/app-icon.png" width="128" height="128" alt="Arma Reforger Launcher logo">
 
 This repository contains the official Windows Setup and Portable executables, Linux DEB and AppImage packages, and Windows update artifacts.
 
 - [Download the latest release](https://github.com/Redwolf29195/arma-reforger-launcher-updates/releases/latest)
 - [Open-source project, build instructions and GPL-3.0-only license](https://github.com/Redwolf29195/arma-reforger-launcher)
-- [Corresponding source for version 0.3.46](https://github.com/Redwolf29195/arma-reforger-launcher/tree/v0.3.46)
+- [Corresponding source for version 0.3.47](https://github.com/Redwolf29195/arma-reforger-launcher/tree/v0.3.47)
 
 The launcher has been open source under GPL-3.0-only since version 0.3.43. For each release, its notes link to the matching source tag and source archive. Earlier binaries retain the licenses supplied with those copies. Third-party components retain their own terms.
 
